@@ -10,7 +10,7 @@
 
 ### 🚀 Projects (Selected Works)
 
-#### 1. [RPG](https://github.com/twatatani/naitei)
+#### 1. [RPG](https://github.com/twatatani/naitei-rpg-)
 卒業制作としてグループワークで開発したプロジェクトです。
 - **概要**: ブラウザで遊べる一人用RPG
 - **使用技術**: Java (Spring Framework), JavaScript, HTML, CSS, PostgreSQL
