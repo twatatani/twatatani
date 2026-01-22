@@ -33,6 +33,10 @@
 - **Database**: PostgreSQL
 - **Tools**: Git, GitHub
 
+### 🏆 Activity/Certification
+- **Paiza スキルチェック**: [Aランク取得]()
+- Javaを用いてアルゴリズム問題や論理的思考を必要とする課題に取り組んでいます。
+
 ---
 
 ### 📫 Contact
